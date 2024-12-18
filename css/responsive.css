@@ -1,0 +1,288 @@
+@media(max-width: 1200px){
+	.container{max-width: 1140px;}
+}
+@media (max-width: 1199px){
+li.nav-item {
+    padding: 0px 12px;
+    position: relative;
+}
+a.nav-link {
+   font-size:14px;
+}
+.signIbtn {
+    padding: 9px 20px;
+}
+section.bannerMain {
+    padding: 190px 0px 110px 0px;
+}
+.container {
+    max-width: 960px;
+}
+.appRight {
+    padding-bottom: 60px;
+}
+.faq ul.nav.nav-tabs {
+    padding-bottom: 35px;
+}
+}	
+	
+@media (max-width: 991px) {
+header {
+    padding: 20px 0px;
+}
+.navbar-brand {
+    max-width: 160px;
+}
+.navbar-collapse {
+    display: block;
+    background: #16d5ff;
+    top: 96px;
+    height: calc(100% - 96px);
+    position: fixed;
+    width: 100%;
+    left: 0;
+}
+.header a.nav-link {
+    padding: 8px 15px;
+    display: block;
+    color: #fff;
+    background: #16d5ff;
+    border-bottom: 1px solid;
+}
+.signInbtn {
+    padding: 8px 15px;
+    display: block;
+    color: #fff;
+    background: #16d5ff;
+    border-bottom: 1px solid;
+    border-radius: 0;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+}
+section.bannerMain {
+	padding: 160px 0px 100px 0px;
+}
+.container {
+    max-width: 720px;
+}
+.bannerLeft h1{
+    font-size: 35px;
+}
+section.work {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.page-top {
+    padding-bottom: 35px;
+}
+.outerWrap h2 {
+        font-size: 35px;
+    padding-bottom: 10px;
+}
+.workLeft img {
+    max-width: 305px;
+    display: block;
+    margin: 0px auto;
+}
+.outerWrap h3 {
+    font-size: 25px;
+}
+section.features {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.page-bottom {
+    padding-bottom: 30px;
+}
+.featureHeading {
+    padding-top: 14px;
+}
+.featureHeading a {
+    font-size: 20px;
+}
+section.roadMap {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.map-bottom .owl-item:nth-child(even) .v-row {
+    top: -70px;
+}
+.v-row {
+    height: 70px;
+}
+section.team {
+    padding-top: 60px;
+	padding-bottom: 15px;
+}
+section.token {
+    padding: 60px 0;
+}
+section.blog {
+    padding: 60px 0;
+}
+.owl-dots {
+    margin-top: 30px;
+}
+section.app {
+    padding-top: 60px ;
+	padding-bottom: 0;
+}
+.app .col-lg-6:first-child {
+	order: 2;
+}
+.app .col-lg-6:nth-child(2) {
+	order: 1;
+}
+section.faq {
+    padding-top: 60px;
+	padding-bottom: 30px;
+}
+footer {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.footer {
+    padding-bottom: 30px;
+}
+.copyright {
+    padding-top: 30px;
+}
+.subscribe {
+    margin-top: 20px;
+	    text-align: center;
+}
+.copyright-left {
+    text-align: center;
+}
+.copyright-link ul {
+    text-align: center;
+	margin-top:20px;
+}
+}
+
+@media (max-width: 767px) {
+.navbar-brand{
+	max-width: 120px;
+}
+.btnTheme {
+    padding: 6px 20px;
+}
+.bannerInner .col-lg-6:first-child {
+	order: 2;
+}
+	.bannerInner .col-lg-6:nth-child(2) {
+	order: 1;
+}
+.bannerRight{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.bannerLeft {
+    text-align: center;
+}
+.bannerLeft h1 {
+    font-size: 30px;
+}
+.bannerLeft a .btn {
+    padding: 6px 15px;
+}
+section.bannerMain {
+    padding: 120px 0px 50px 0px;
+}
+
+.page-top {
+    padding-bottom: 35px;
+}
+.outerWrap h2 {
+    font-size: 25px;
+}
+.workLeft {
+    margin-bottom: 30px;
+}
+.outerWrap h3 {
+    font-size: 20px;
+}
+section.work {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+section.features {
+    padding-top: 40px;
+	padding-bottom:30px;
+}
+.page-bottom {
+    padding-bottom: 10px;
+    max-width: 100%;
+    text-align: center;
+}
+section.roadMap {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+section.team {
+    padding-top: 40px;
+    padding-bottom: 0;
+}
+.team-box {
+    padding-bottom: 40px;
+}
+section.token {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.token .col-lg-6:first-child {
+	order: 2;
+}
+.token .col-lg-6:nth-child(2) {
+	order: 1;
+}
+section.blog {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+section.app {
+    padding-top: 40px;
+	padding-bottom: 0;
+}
+.appRight {
+    padding-bottom: 80px;
+}
+.app .col-lg-6:first-child {
+	order: 2;
+}
+.app .col-lg-6:nth-child(2) {
+	order: 1;
+}
+section.faq {
+    padding-top: 40px;
+	padding-bottom: 10px;
+}
+.faq ul.nav.nav-tabs {
+    padding-bottom: 20px;
+}
+.faq li.nav-item {
+    padding: 0px 20px;
+}
+footer {
+    padding-top: 40px;
+	padding-bottom:30px;
+	}
+.footer-icon {
+    margin-bottom: 30px;
+}
+.copyright {
+    padding-top: 30px;
+}
+}
+
+@media (max-width: 576px) {
+
+}
+
+
+
+@media (max-width: 480px) {
+
+}
+
